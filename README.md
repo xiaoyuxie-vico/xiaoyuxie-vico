@@ -7,6 +7,5 @@ This is Xiaoyu Xie, a third-year PhD candidate at Northwestern University, USA. 
 - Demonstrated experience in the development of open-source software. Independently contributing to the development of PyDimension, a python library for discovering scientific knowledge from scarce data.
 - Strong communication and writing skills and ability to work collaboratively in interdisciplinary teams.
 - Authored and co-authored 5 scientific publications in top journals (e.g., Nature Communications and Npj Computational Materials-Nature).
-- Actively looking for a 2023 intern position in machine learning, deep learning, and computer vision-related fields.
 
 Please go to [my personal website](https://xiaoyuxie.top/) to read more.
